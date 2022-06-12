@@ -1,0 +1,25 @@
+.body{
+    background-color: pink;
+    text-align: center;
+
+}
+
+.simon{
+    background-color: plum;
+    color:white;
+    height: 75px;
+    width: 175px;
+    font-size:xx-large;
+    border: none;
+}
+
+
+.nelson{
+    background-color: cornflowerblue;
+    color:white;
+    height: 75px;
+    width: 175px;
+    font-size:xx-large;
+    border: none;
+
+}
