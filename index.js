@@ -6,7 +6,7 @@ const botonNelson = document.getElementById('nelson');
 
 const somosAlgo = () =>{
     //alert("Somos Novios");
-    location.href=href="https://wa.me/524433805686/?text=¡¡Hola!!, claro que me gustaría ir por unos taquitos contigo. ¿A qué hora nos vemos?"
+    location.href=href="https://wa.me/524431283102/?text=¡¡Hola!!, claro que me gustaría ir por unos taquitos contigo. ¿A qué hora nos vemos?"
 
 }
 
