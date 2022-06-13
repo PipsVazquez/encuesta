@@ -23,3 +23,12 @@
     border: none;
 
 }
+
+.boton_inicio{
+    background-color: cornflowerblue;
+    color:white;
+    font-size:xx-large;
+    border: none;
+    height: 75px;
+    width: 500px;
+}
